@@ -19,7 +19,6 @@ public class display_array {
         System.out.println("]");
         System.out.println("1.sum");
         System.out.println("2.reverse");
-        System.out.println("3.max");
         Scanner sc1 = new Scanner(System.in);
         int num = sc1.nextInt();
         switch(num){
