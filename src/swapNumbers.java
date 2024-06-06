@@ -6,7 +6,7 @@ public class swapNumbers {
         temp=a;
         a=b;
         b=temp;
-        System.out.println("reversed numbers : ");
+        System.out.println("reversed numbers are : ");
         System.out.println(a);
         System.out.println(b);
     }
