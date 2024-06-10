@@ -1,6 +1,6 @@
 public class panagram {
 
-        static boolean isPanagram(String s)
+        static boolean is_panagram(String s)
         {
             int n = s.length();
 
@@ -37,7 +37,7 @@ public class panagram {
         {
             String s = "The quick brown fox jumps over the lazy dog";
 
-            System.out.println(isPanagram(s));
+            System.out.println(is_panagram(s));
         }
 
 }
