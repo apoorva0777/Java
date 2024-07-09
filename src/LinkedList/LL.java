@@ -4,6 +4,7 @@ public class LL {
     class Node{
         String data;
         Node next;
+        kk
     }
 
 
