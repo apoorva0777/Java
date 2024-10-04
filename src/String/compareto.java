@@ -3,7 +3,7 @@ package String;
 public class compareto {
     public static void main(String[] args) {
         String a="toy";
-        String b="toy";
+        String b="toys";
 
         //a>b : +ve value
         //a==b : 0
